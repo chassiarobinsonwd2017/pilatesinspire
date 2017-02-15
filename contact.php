@@ -1,7 +1,7 @@
 <? include("header.html"); ?>
 
 <link href="https://fonts.googleapis.com/css?family=Lato|Raleway:700" rel="stylesheet">
-<form id="contact-form" action="contact-process.php">
+<form id="contact-form" action="contact-process.php" method="post">
   <p>Dear Chassia,</p>
   <p>My
     <label for="your-name">name</label> is
