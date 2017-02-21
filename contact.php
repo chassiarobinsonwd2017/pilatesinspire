@@ -1,8 +1,12 @@
 <? include("header.html"); ?>
 
 <link href="https://fonts.googleapis.com/css?family=Lato|Raleway:700" rel="stylesheet">
+<div class ="contacthead"><div class ="heading"><div><img src ="assets/heading%20back.png"></div><h1>Contact</h1></div></div>
 <form id="contact-form" action="contact-process.php" method="post">
-  <p>Dear Chassia,</p>
+
+
+  <div class = "border">
+    <p>Dear Chassia,</p>
   <p>My
     <label for="your-name">name</label> is
     <input type="text" name="your-name" id="your-name" minlength="3" placeholder="(your name here)" required> and</p>
@@ -27,5 +31,6 @@
       <small>send</small>
     </button>
   </p>
+      </div>
 </form>
 <? include("footer.html"); ?>

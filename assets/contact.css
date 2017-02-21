@@ -1,21 +1,23 @@
 body #contact-form {
   font-family: 'Lato', sans-serif;
-  font-size: 35px;
+  font-size: 60px;
   color: deeppink;
   background-color: #f2f2f2;
   text-align: center;
-  font-weight: 400;
+  font-weight: 500;
   -webkit-font-smoothing: antialiased;
 }
 
 #contact-form {
   max-width: 90%;
   margin: 0 auto;
+    font-size: 24px;
 }
 
 label {
   font-weight: 400;
   cursor: pointer;
+
 }
 
 textarea,
@@ -52,11 +54,11 @@ textarea:focus {
 
 textarea:focus:required:valid {
   border: 2px solid rgba(255, 255, 255, 0);
-  border-bottom: 2px solid rgba(255, 255, 255, 0.2);
+  border-bottom: 2px dashed rgba(229, 0, 126, 0.5);
 }
 
 textarea:required:valid {
-  border-bottom: 2px solid rgba(255, 255, 255, 0.2);
+  border-bottom: 2px solid rgba(99, 167, 10, 0.5);
 }
 
 input {
@@ -66,12 +68,12 @@ input {
 
 input:required,
 textarea:required {
-  border-bottom: 2px solid rgba(255, 255, 255, 0.5);
+  border-bottom: 2px solid rgba(99, 167, 10, 0.5);
     color: #63a70a;
 }
 
 input:focus {
-  border-bottom: 2px dashed rgba(99, 167, 10, 0.5);
+  border-bottom: 2px dashed rgba(229, 0, 126, 0.5);
   background-color: rgba(255, 255, 255, 0.2);
 }
 
@@ -86,7 +88,7 @@ input:required:invalid {
 
 ::-webkit-input-placeholder {
   text-align: center;
-  color: rgba(255, 255, 255, 0.4);
+  color: rgba(99, 167, 10, 0.5);
   font-style: italic;
   font-weight: 400;
 }
@@ -95,7 +97,7 @@ input:required:invalid {
   /* Firefox 18- */
 
   text-align: center;
-  color: rgba(255, 255, 255, 0.4);
+  color: rgba(99, 167, 10, 0.5);
   font-style: italic;
   font-weight: 400;
 }
@@ -104,7 +106,7 @@ input:required:invalid {
   /* Firefox 19+ */
 
   text-align: center;
-  color: rgba(255, 255, 255, 0.4);
+  color: rgba(99, 167, 10, 0.4);
   font-style: italic;
   font-weight: 400;
 }
@@ -158,4 +160,11 @@ small {
 
 .website a {
   color: white;
+}
+.border{
+border: 2px solid #63a70a;
+margin-top: 60px;
+padding-top: 30px;
+font-size: 24px;
+font-weight: 500;
 }

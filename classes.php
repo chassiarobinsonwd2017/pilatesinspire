@@ -1,7 +1,7 @@
 <? include("header.html"); ?>
 
 <div class="container-fluid">
-<div class ="heading"><h1>INTRODUCTION</h1></div>
+<div class = "classes"><div class ="heading"><div><img src ="assets/l.jpg"></div><h1>classes and prices</h1></div></div>
            <div class="subHeadingRow">
           <div class="col-sm-6" >
         <div class = "subheading"><h2>BEGINNER PILATES CLASS</h2></div>
@@ -17,9 +17,9 @@
 <div class="container-fluid">
     <div class="priceimagerow">
           <div class="col-sm-6" >
-              <div> <img src ="assets/reformer.jpg"></div>
+              <div> <img src ="assets/balls.jpg"></div>
         </div>
-          <div class="col-sm-6"><div class = "subheading"><h2>STANDARD PILATES CLASS</h2></div>
-        <p>Beginners clas 35 shekels advanced 45 and and onthe of classes is 160.Special deals is you recommend a client.Private lessons 50 shekel a class.
+          <div class="col-sm-6"><div class = "subheading"><h2>Prices</h2></div>
+        <p>Beginners class 35 shekels and advanced 45 .Special deals if you recommend a client.Private lessons 50 shekel a class.
               </p></div>
 <? include("footer.html"); ?>
