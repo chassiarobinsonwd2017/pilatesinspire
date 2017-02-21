@@ -1,5 +1,6 @@
 <? include("header.html"); ?>
 
+<div class ="space"><img src ="assets/OP.png"></div>
 <div class="container-fluid">
 <div class = "classes"><div class ="heading"><div><img src ="assets/l.jpg"></div><h1>classes and prices</h1></div></div>
            <div class="subHeadingRow">

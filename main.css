@@ -35,11 +35,17 @@ li a{
     border-bottom: none;
 }
 
-li a.active {
-    background-color: #4CAF50;
-    color: white;
-    text-decoration: none;
+/*li a.active {
+    color: #e30a7e;
 }
+li a:hover:not(.active){
+    color: black;
+}*/
+li a:hover {
+    text-decoration: none;
+    color: #63a70a;
+}
+
 .navRow{
      padding: 20px;
      height: 100px;
@@ -65,7 +71,7 @@ img{
 }
 
 .slick-dots li.slick-active button{
-    background:#e30a7e;
+    background:;
 }
 
 .slick-dots li button::before{
@@ -183,4 +189,8 @@ footer .subheading{
     margin-top: -25px;
     padding-bottom: 20px;
 
+}
+.space img{
+    padding-top: 40px;
+    padding-bottom: 40px;
 }
