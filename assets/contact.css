@@ -163,6 +163,7 @@ small {
 }
 .border{
 border: 2px solid #63a70a;
+border-radius: 25px;
 margin-top: 60px;
 padding-top: 30px;
 font-size: 24px;

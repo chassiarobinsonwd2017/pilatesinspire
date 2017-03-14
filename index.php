@@ -11,7 +11,7 @@
 
         <div class ="heading"><div><img src ="assets/heading%20back.png"></div><h1>INTRODUCTION</h1></div>
      <div class="container-fluid">
-<div class="subHeadingRow">
+<div class="subHeadingRow row">
           <div class="col-sm-6" >
         <div class = "subheading"><h2>Benefits of Pilates</h2></div>
               <p> Elite trainers deliver an hour-long session that not only tones to produce a lean and strong silhouette, but also is great for rehabilitation, post-natal conditioning, weight loss, alignment and strength gain.</p>
@@ -23,7 +23,7 @@
         </div>
         </div>
         <div class="container-fluid">
-<div class="feedbackRow">
+<div class="feedbackRow row">
           <div class="col-sm-12" >
         <div class ="feedback">
 

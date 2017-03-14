@@ -9,7 +9,8 @@ html{
 }
 body{
   color: black;
-   background:  #f2f2f2;
+  background:  #f2f2f2;
+  padding-top: 30px;
 }
 ul {
     list-style-type: none;
@@ -19,7 +20,7 @@ ul {
 
 li a{
     display: block;
-    width: 200px;
+    /*width: 200px;*/
     background-color: transparent;
     border-top: 1px solid #63a70a;
     border-bottom: 1px solid #63a70a;
@@ -31,7 +32,7 @@ li a{
     text-transform: uppercase;
     color: black;
 }
-.home li:last-child {
+a li:first-child{
     border-bottom: none;
 }
 
@@ -46,28 +47,30 @@ li a:hover {
     color: #63a70a;
 }
 
-.navRow{
-     padding: 20px;
-     height: 100px;
+.navRow row{
+     /*padding: 20px;
+     /*height: 100px;*/
      position: relative;
 }
+
+
 .home{;
-    margin-right:  320px;
-    width: 420px;
+    /*margin-right:  320px;
+    width: 420px;*/
 
     padding: 0;
 }
 .contact{
-        width: auto;
+        /*width: auto;
 
-        margin-right: 20px;
+        /*margin-right: 20px;*/
     padding: 0;
 }
 img{
     max-width:100%;
     height: auto;
     background-size: cover;
-    padding-top: 10px;
+
 }
 
 .slick-dots li.slick-active button{
@@ -152,10 +155,12 @@ footer .subheading{
 
 }
 .col-sm-2 {
-    padding-top: 40px;
+    /*padding-top: 40px;*/
+
 }
 .col-sm-3 {
-    margin-top: -20px;
+    /*margin-top: -20px;*/
+
 }
 .heading img{
     position: absolute;
@@ -193,4 +198,9 @@ footer .subheading{
 .space img{
     padding-top: 40px;
     padding-bottom: 40px;
+}
+.row{
+
+    margin-right: 0px;
+   margin-left: 0px;
 }
