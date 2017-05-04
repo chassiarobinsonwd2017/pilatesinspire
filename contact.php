@@ -6,7 +6,7 @@
 
 
   <div class = "border">
-    <p>Dear Chassia,</p>
+    <p>Dear Pilates Inspire,</p>
   <p>My
     <label for="your-name">name</label> is
     <input type="text" name="your-name" id="your-name" minlength="3" placeholder="(your name here)" required> and</p>
@@ -17,7 +17,7 @@
   </p>
 
   <p> I have a
-    <label for="your-message">message</label> for you,</p>
+    <label for="your-message">message</label>,</p>
 
   <p>
     <textarea name="your-message" id="your-message" placeholder="(your msg here)" class="expanding" required></textarea>
