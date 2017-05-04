@@ -86,9 +86,7 @@ img{
 
 }
 
-.slick-dots li.slick-active button{
-    background:;
-}
+
 
 .slick-dots li button::before{
     font-size: 0px;
@@ -146,12 +144,12 @@ p{
     padding-bottom: 20px;
 }
 .slick-prev{
-    left: 202px;
-    top: 20px;
+    left: 5%;
+    top: 20%;
 }
 .slick-next {
-    right: 202px;
-    top: 20px;
+    right: 5%;
+    top: 20%;
 }
 .feedback{
     text-align: center;
@@ -192,8 +190,8 @@ footer .subheading{
 }
 .heading img{
     position: absolute;
-    margin-left: -178px;
-    margin-top: -25px;
+    margin-left: -181px;
+    margin-top: -15px;
 }
 .h1, h1{
     position: relative;
@@ -213,13 +211,13 @@ footer .subheading{
 }
 .classes .heading img {
     position: absolute;
-    margin-left: -208px;
-    margin-top: -25px;
+   margin-left: -208px;
+margin-top: -15px;
 }
 .contacthead .heading img{
     position: absolute;
     margin-left: -178px;
-    margin-top: -25px;
+    margin-top: -15px;
     padding-bottom: 20px;
 
 }
@@ -231,4 +229,11 @@ footer .subheading{
 
     margin-right: 0px;
    margin-left: 0px;
+}
+.col-sm-3 a:hover{
+    border: none;
+}
+.slick-prev, .slick-next {
+z-index: 7;
+    font-weight: 800;
 }

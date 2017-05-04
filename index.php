@@ -27,9 +27,10 @@
           <div class="col-sm-12" >
         <div class ="feedback">
 
-        <div><p> Amazing lessons feel great definatly reccomend Cf</p></div>
-            <div><p> Seems simple to do but reall works my body and makes me healthy and fit SM</p></div>
-            <div><p> jsdkfaksgj kl gj jkdfsajglasd gj sdaj kasdl gfkasdg jk asdjgkj sdf jgakld faksldgj asgj </p></div>
+        <div><p> The morning after my first Pilates class my body felt great no pain! Cf</p></div>
+            <div><p> Seems simple to do, but really works my body and makes me healthy and fit SM</p></div>
+             <div><p> My pilate class with Chassia is the highlight of my week! FC</p></div>
+            <div><p> Chassia is a great instructor,clear instructions, modifys and advances according to my level,I love my weekly class.LP </p></div>
         </div>
     </div>
             </div>
