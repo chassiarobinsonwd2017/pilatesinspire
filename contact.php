@@ -17,7 +17,7 @@
   </p>
 
   <p> I have a
-    <label for="your-message">message</label>,</p>
+    <label for="your-message"> message</label>,</p>
 
   <p>
     <textarea name="your-message" id="your-message" placeholder="(your msg here)" class="expanding" required></textarea>
