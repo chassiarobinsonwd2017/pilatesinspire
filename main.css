@@ -237,3 +237,22 @@ margin-top: -15px;
 z-index: 7;
     font-weight: 800;
 }
+table{
+    margin-left: 90px;
+margin-top: 50px;
+border: solid 2px #63a70a;
+    background-color: transparent;
+}
+th{
+    text-align: left;
+    border-right: solid 1px #63a70a;
+    padding: 10px;
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+}
+tr {
+    border-bottom: solid 1px #63a70a;
+}
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
